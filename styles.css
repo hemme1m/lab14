@@ -1,14 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 
 nav {
-    margin: 10px;
-    border: 3px double whitesmoke;
+    padding: 15px 5px;
+    background-color: whitesmoke;
+    border: 1px solid silver;
     border-radius: 5px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    box-shadow: -4px 5px 6px #023E54;
 }
 nav a {
-    color: whitesmoke;
+    color: #023E54;
 }
 nav a:hover {
     text-decoration: none;
