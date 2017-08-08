@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
 nav {
-    margin: 5px;
-    border: 1px solid silver;
+    margin: 10px;
+    border: 3px double whitesmoke;
     border-radius: 5px;
     padding-top: 10px;
     padding-bottom: 10px;
